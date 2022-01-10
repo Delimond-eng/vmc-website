@@ -293,17 +293,6 @@
                 <div class="grid">
                   <div class="img-social">
                     <div class="img-holder">
-                      <img src="assets/images/vmc/mines/cobalt.jpeg" height="180" alt />
-                    </div>
-                  </div>
-                  <div class="details">
-                    <h3>Cobalt</h3>
-                    <span>Vision Mines Congo</span>
-                  </div>
-                </div>
-                <div class="grid">
-                  <div class="img-social">
-                    <div class="img-holder">
                       <img src="assets/images/vmc/mines/diamond.jpg" height="180" alt />
                     </div>
                   </div>
@@ -319,10 +308,43 @@
                     </div>
                   </div>
                   <div class="details">
-                    <h3>Or massifs</h3>
+                    <h3>Or massif</h3>
                     <span>Vision Mines Congo</span>
                   </div>
                 </div>
+
+                <div class="grid">
+                  <div class="img-social">
+                    <div class="img-holder">
+                      <img
+                        src="assets/images/vmc/mines/emeraude-img.jpeg"
+                        height="180"
+                        alt
+                      />
+                    </div>
+                  </div>
+                  <div class="details">
+                    <h3>Emeraude</h3>
+                    <span>Vision Mines Congo</span>
+                  </div>
+                </div>
+
+                <div class="grid">
+                  <div class="img-social">
+                    <div class="img-holder">
+                      <img
+                        src="assets/images/vmc/mines/saphir-img1.webp"
+                        height="180"
+                        alt
+                      />
+                    </div>
+                  </div>
+                  <div class="details">
+                    <h3>Saphir</h3>
+                    <span>Vision Mines Congo</span>
+                  </div>
+                </div>
+
                 <div class="grid">
                   <div class="img-social">
                     <div class="img-holder">
@@ -331,6 +353,34 @@
                   </div>
                   <div class="details">
                     <h3>Coltan</h3>
+                    <span>Vision Mines Congo</span>
+                  </div>
+                </div>
+
+                <div class="grid">
+                  <div class="img-social">
+                    <div class="img-holder">
+                      <img
+                        src="assets/images/vmc/mines/cuivre-img1.jpg"
+                        height="180"
+                        alt
+                      />
+                    </div>
+                  </div>
+                  <div class="details">
+                    <h3>Cuivre</h3>
+                    <span>Vision Mines Congo</span>
+                  </div>
+                </div>
+
+                <div class="grid">
+                  <div class="img-social">
+                    <div class="img-holder">
+                      <img src="assets/images/vmc/mines/cobalt.jpeg" height="180" alt />
+                    </div>
+                  </div>
+                  <div class="details">
+                    <h3>Cobalt</h3>
                     <span>Vision Mines Congo</span>
                   </div>
                 </div>
@@ -361,29 +411,48 @@
                     <img src="assets/images/vmc/mines/detector.jpg" alt />
                   </div>
                   <div class="details">
-                    <i class="fi flaticon-diamond"></i>
-                    <h3><a href="#">Detection des minerais</a></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                    <i class="fi flaticon-idea"></i>
+                    <h3><a href="#">Prospection des minerais</a></h3>
                   </div>
                 </div>
+
+                <div class="grid">
+                  <div class="img-holder">
+                    <img src="assets/images/vmc/mines/extraction_img.jpg" alt />
+                  </div>
+                  <div class="details">
+                    <i class="fi flaticon-truck"></i>
+                    <h3><a href="#">Extraction des minerais</a></h3>
+                  </div>
+                </div>
+
+                <div class="grid">
+                  <div class="img-holder">
+                    <img src="assets/images/vmc/mines/vente-img2.jpg" alt />
+                  </div>
+                  <div class="details">
+                    <i class="fi flaticon-order"></i>
+                    <h3><a href="#">Vente des minerais</a></h3>
+                  </div>
+                </div>
+
+                <div class="grid">
+                  <div class="img-holder">
+                    <img src="assets/images/vmc/mines/vente_img.jpg" alt />
+                  </div>
+                  <div class="details">
+                    <i class="fi flaticon-order"></i>
+                    <h3><a href="#">Achat des minerais</a></h3>
+                  </div>
+                </div>
+
                 <div class="grid">
                   <div class="img-holder">
                     <img src="assets/images/vmc/mines/exploitation.jpg" alt />
                   </div>
                   <div class="details">
-                    <i class="fi flaticon-transmission"></i>
+                    <i class="fi flaticon-piston"></i>
                     <h3><a href="#">Exploitation</a></h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                  </div>
-                </div>
-                <div class="grid">
-                  <div class="img-holder">
-                    <img src="assets/images/vmc/mines/img_8.jpg" alt />
-                  </div>
-                  <div class="details">
-                    <i class="fi flaticon-idea"></i>
-                    <h3><a href="#">Intermediaires</a></h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                   </div>
                 </div>
               </div>
@@ -467,7 +536,7 @@
       <!--Carriere-->
       <section
         class="latest-projects-section section-padding"
-        style="background-color: #f7f9fa"
+        style="background-color: #f7f9fa; display: none"
       >
         <div class="container">
           <div class="row">
@@ -600,7 +669,7 @@
       </section>
       <!--End Carriere-->
 
-      <section class="latest-projects-section-s2 section-padding">
+      <section class="latest-projects-section-s2 section-padding" style="display: none">
         <div class="container">
           <div class="row">
             <div class="col col-lg-4 col-lg-offset-4 col-sm-6 col-sm-offset-3">

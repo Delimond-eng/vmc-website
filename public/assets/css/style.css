@@ -2873,11 +2873,6 @@ img {
     bottom: 0;
 }
 
-.logo {
-    position: absolute;
-    top: 1;
-}
-
 .site-footer .about-widget .logo {
     max-width: 180px;
 }
@@ -3117,13 +3112,20 @@ img {
     position: relative;
 }
 
+.logo {
+    position: absolute;
+    top: -8;
+    height: 50px;
+}
+
 @media (max-width: 767px) {
     .site-footer .lower-footer .short-links ul>li+li {
         margin-left: 15px;
     }
     .logo {
         position: absolute;
-        top: -5;
+        top: -8;
+        height: 80px;
     }
 }
 
@@ -3238,7 +3240,8 @@ img {
     }
     .logo {
         position: absolute;
-        top: -5;
+        top: -8;
+        height: 50.0
     }
 }
 
@@ -3337,6 +3340,7 @@ img {
     .logo {
         position: absolute;
         top: -15;
+        height: 50px;
     }
 }
 
